@@ -1,7 +1,9 @@
 # Computer-Version
 ## Author ZhangJinhua
 Artificial Intelligence Class of 2019
+
 School of Computer Science and Technology
+
 Shandong University
 
 ### Exp 1 (2021.9.17 -- 2021.9.24)
@@ -59,6 +61,7 @@ Shandong University
 #### 连通域
 >实现一个8连通的快速连通域算法，并基于该算法对测试图像进行以下处理：
 >>计算白色连通区域的个数。
+>>
 >>删除较小的白色连通域，只保留最大的一个。
 #### 距离变换
 >了解OpenCV的距离变换函数distanceTransform。
