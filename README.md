@@ -75,3 +75,6 @@ Shandong University
 
 >尝试对其准确率和效率进行优化实现。
 
+### Exp7 (2021.11.5 -- 2021.11.10)
+#### 实验7.1  Harris角点检测
+- 实现Harris角点检测算法，并与OpenCV的cornerHarris函数的结果和计算速度进行比较。
