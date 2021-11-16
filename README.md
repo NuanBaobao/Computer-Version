@@ -80,7 +80,8 @@ Shandong University
 - 实现Harris角点检测算法，并与OpenCV的cornerHarris函数的结果和计算速度进行比较。
 [参考链接](https://zhuanlan.zhihu.com/p/83064609)
 
-### 实验8.1  特征检测与匹配
+### Exp8 (2021.11.12 -- 2021.11.17)
+#### 实验8.1  特征检测与匹配
 - 测试OpenCV中的SIFT, SURF, ORB等特征检测与匹配的方法。将检测到的特征点和匹配关系进行可视化输出，比较不同方法的效率、效果等。
 
 
